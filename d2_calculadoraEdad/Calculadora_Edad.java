@@ -32,6 +32,9 @@ public class Calculadora_Edad {
         boolean validaInput = true;
         String continuar = "No";
 
+        System.out.println("***   CALCULADORA DE EDAD   ***");
+        System.out.println("\n¡Hola! Bienvenido/a a la Calculadora de Edad.");
+
         do {
 
             do {
