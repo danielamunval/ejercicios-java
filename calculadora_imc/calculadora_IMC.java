@@ -1,4 +1,4 @@
-package calculadora_imc;
+package Desafíos.calculadora_imc;
 
 import java.util.Scanner;
 
